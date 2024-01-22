@@ -1,0 +1,13 @@
+.vscode
+compile_flash.sh
+*.orig
+.gdb_history
+*.ewt
+*.bak
+*.npz
+*.hex
+**/STM32CubeIDE/**/.settings
+**/STM32CubeIDE/**/Release
+**/STM32CubeIDE/**/Debug
+*.swp
+tags
